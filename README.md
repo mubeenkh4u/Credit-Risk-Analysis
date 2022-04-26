@@ -124,4 +124,5 @@ Ranking of models in descending order based on "High Risk" results:
 # Resources:
 
 Dataset from LendingClub: [LoanStats_2019Q1](./Resources/LoanStats_2019Q1.csv)
+
 Software: Python 3.7.11, VSCode 1.66.2 with Jupyter Extension 2022.3.1000901801
